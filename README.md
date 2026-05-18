@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**maria-fraga/maria-fraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=32&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Maria+Fraga;I'm+15+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training;Be+Welcome!+:)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<br/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About me
+
+```js
+const maria = {
+  name: "Maria Fraga",
+  age: 17,
+  location: "Joinville, SC 🇧🇷",
+  school: "IFC - Araquari",
+  focus: "Web Development & Programming",
+};
