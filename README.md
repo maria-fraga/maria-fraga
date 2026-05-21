@@ -7,7 +7,7 @@
 
 ---
 
-##💻🐱🎀 About me
+## 💻🐱🎀 About me
 
 ```js
 const maria = {
